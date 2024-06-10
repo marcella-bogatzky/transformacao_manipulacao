@@ -1,2 +1,2 @@
 # transformacao_manipulacao
-Repositório do curso "Pandas: selecionando e agrupando dados" da Alura
+Repositório do curso "Pandas: transformação e manipulação de dados" da Alura
